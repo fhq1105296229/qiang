@@ -1,0 +1,4833 @@
+﻿{
+ "displayFieldName": "NAME",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "NAME": "NAME",
+  "JIBIE": "JIBIE",
+  "XZQH": "XZQH",
+  "LEVEL_MAX": "LEVEL_MAX",
+  "LEVEL_MIN": "LEVEL_MIN",
+  "YWJC_LEVEL_MAX": "YWJC_LEVEL_MAX",
+  "YWJC_LEVEL_MIN": "YWJC_LEVEL_MIN"
+ },
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 4326,
+  "latestWkid": 4326
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "NAME",
+   "type": "esriFieldTypeString",
+   "alias": "NAME",
+   "length": 60
+  },
+  {
+   "name": "JIBIE",
+   "type": "esriFieldTypeString",
+   "alias": "JIBIE",
+   "length": 50
+  },
+  {
+   "name": "XZQH",
+   "type": "esriFieldTypeString",
+   "alias": "XZQH",
+   "length": 6
+  },
+  {
+   "name": "LEVEL_MAX",
+   "type": "esriFieldTypeSmallInteger",
+   "alias": "LEVEL_MAX"
+  },
+  {
+   "name": "LEVEL_MIN",
+   "type": "esriFieldTypeSmallInteger",
+   "alias": "LEVEL_MIN"
+  },
+  {
+   "name": "YWJC_LEVEL_MAX",
+   "type": "esriFieldTypeSmallInteger",
+   "alias": "YWJC_LEVEL_MAX"
+  },
+  {
+   "name": "YWJC_LEVEL_MIN",
+   "type": "esriFieldTypeSmallInteger",
+   "alias": "YWJC_LEVEL_MIN"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 1,
+    "NAME": "辽宁省",
+    "JIBIE": "B",
+    "XZQH": "210000",
+    "LEVEL_MAX": 8,
+    "LEVEL_MIN": 6,
+    "YWJC_LEVEL_MAX": 7,
+    "YWJC_LEVEL_MIN": 6
+   },
+   "geometry": {
+    "x": 122.9154354437909,
+    "y": 41.105646133362541
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 2,
+    "NAME": "丹东市",
+    "JIBIE": "C",
+    "XZQH": "210600",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 124.35846942632315,
+    "y": 40.071670373489098
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 3,
+    "NAME": "东港市",
+    "JIBIE": "D",
+    "XZQH": "210681",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 123.86238230559911,
+    "y": 39.956026634321859
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 4,
+    "NAME": "大连市",
+    "JIBIE": "C",
+    "XZQH": "210200",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 121.57787100374401,
+    "y": 38.864291346768425
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 5,
+    "NAME": "中山区",
+    "JIBIE": "D",
+    "XZQH": "210202",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.64042585776735,
+    "y": 38.918359742008647
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 6,
+    "NAME": "西岗区",
+    "JIBIE": "D",
+    "XZQH": "210203",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.62427783975068,
+    "y": 38.917360098789686
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 7,
+    "NAME": "沙河口区",
+    "JIBIE": "D",
+    "XZQH": "210204",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.5892273097927,
+    "y": 38.905814403611998
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 8,
+    "NAME": "甘井子区",
+    "JIBIE": "D",
+    "XZQH": "210211",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.56603994288923,
+    "y": 38.946474638294092
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 9,
+    "NAME": "旅顺口区",
+    "JIBIE": "D",
+    "XZQH": "210212",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.25218599978427,
+    "y": 38.807106000241902
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 10,
+    "NAME": "金州区",
+    "JIBIE": "D",
+    "XZQH": "210213",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.82781558791919,
+    "y": 39.210843383115787
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 11,
+    "NAME": "长海县",
+    "JIBIE": "D",
+    "XZQH": "210224",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 122.98945887612638,
+    "y": 39.520241304193007
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 12,
+    "NAME": "瓦房店市",
+    "JIBIE": "D",
+    "XZQH": "210281",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.72809708221473,
+    "y": 39.694748689400683
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 13,
+    "NAME": "普兰店市",
+    "JIBIE": "D",
+    "XZQH": "210282",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 122.26379416976533,
+    "y": 39.605079335043456
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 14,
+    "NAME": "庄河市",
+    "JIBIE": "D",
+    "XZQH": "210283",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 122.88220350668666,
+    "y": 39.857081139982768
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 15,
+    "NAME": "营口市",
+    "JIBIE": "C",
+    "XZQH": "210800",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 122.27489270763249,
+    "y": 40.558771316343325
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 16,
+    "NAME": "西市区",
+    "JIBIE": "D",
+    "XZQH": "210803",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 122.19911457837532,
+    "y": 40.663445561363744
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 17,
+    "NAME": "鲅鱼圈区",
+    "JIBIE": "D",
+    "XZQH": "210804",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 122.11756999975591,
+    "y": 40.300566999667467
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 18,
+    "NAME": "老边区",
+    "JIBIE": "D",
+    "XZQH": "210811",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 122.35203915898023,
+    "y": 40.688061629940421
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 19,
+    "NAME": "盖州市",
+    "JIBIE": "D",
+    "XZQH": "210881",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 122.35336915196501,
+    "y": 40.400766264052038
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 20,
+    "NAME": "盘锦市",
+    "JIBIE": "C",
+    "XZQH": "211100",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 121.94372493735614,
+    "y": 41.106419537731654
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 21,
+    "NAME": "大洼县",
+    "JIBIE": "D",
+    "XZQH": "211121",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 122.05662704200461,
+    "y": 40.982586133143684
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 22,
+    "NAME": "盘山县",
+    "JIBIE": "D",
+    "XZQH": "211122",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 122.03115178542669,
+    "y": 41.247593312081847
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 23,
+    "NAME": "锦州市",
+    "JIBIE": "C",
+    "XZQH": "210700",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 121.04653299759991,
+    "y": 41.039506993553061
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 24,
+    "NAME": "凌海市",
+    "JIBIE": "D",
+    "XZQH": "210781",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.32999607166153,
+    "y": 41.177385073662379
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 25,
+    "NAME": "葫芦岛市",
+    "JIBIE": "C",
+    "XZQH": "211400",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 120.85163647704201,
+    "y": 40.687495233318543
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 26,
+    "NAME": "绥中县",
+    "JIBIE": "D",
+    "XZQH": "211421",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.00312153912796,
+    "y": 40.292479963979304
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 27,
+    "NAME": "连山区",
+    "JIBIE": "D",
+    "XZQH": "211402",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.86519574528756,
+    "y": 40.760213725982851
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 28,
+    "NAME": "龙港区",
+    "JIBIE": "D",
+    "XZQH": "211403",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.92584186021384,
+    "y": 40.714502425646572
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 29,
+    "NAME": "兴城市",
+    "JIBIE": "D",
+    "XZQH": "211481",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.46229047092868,
+    "y": 40.596853308933248
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 30,
+    "NAME": "河北省",
+    "JIBIE": "B",
+    "XZQH": "130000",
+    "LEVEL_MAX": 8,
+    "LEVEL_MIN": 6,
+    "YWJC_LEVEL_MAX": 7,
+    "YWJC_LEVEL_MIN": 6
+   },
+   "geometry": {
+    "x": 115.18283709715445,
+    "y": 38.341046685955973
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 31,
+    "NAME": "秦皇岛市",
+    "JIBIE": "C",
+    "XZQH": "130300",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 119.58722185620388,
+    "y": 39.889203600565907
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 32,
+    "NAME": "山海关区",
+    "JIBIE": "D",
+    "XZQH": "130303",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.75481971955458,
+    "y": 40.005297665355158
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 33,
+    "NAME": "海港区",
+    "JIBIE": "D",
+    "XZQH": "130302",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.5877569087545,
+    "y": 39.952179200609805
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 34,
+    "NAME": "北戴河区",
+    "JIBIE": "D",
+    "XZQH": "130304",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.46787650749502,
+    "y": 39.825974534697195
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 35,
+    "NAME": "昌黎县",
+    "JIBIE": "D",
+    "XZQH": "130322",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.07357500488274,
+    "y": 39.634067273386108
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 36,
+    "NAME": "抚宁县",
+    "JIBIE": "D",
+    "XZQH": "130323",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.32750933868522,
+    "y": 39.977091201897622
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 37,
+    "NAME": "唐山市",
+    "JIBIE": "C",
+    "XZQH": "130200",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 118.44399060498256,
+    "y": 39.589395708945005
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 38,
+    "NAME": "丰南县",
+    "JIBIE": "D",
+    "XZQH": "130207",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.11929209705283,
+    "y": 39.46680687253928
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 39,
+    "NAME": "滦南县",
+    "JIBIE": "D",
+    "XZQH": "130224",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.58773716973474,
+    "y": 39.451153386319902
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 40,
+    "NAME": "乐亭县",
+    "JIBIE": "D",
+    "XZQH": "130225",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.93791145584919,
+    "y": 39.354140421743239
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 41,
+    "NAME": "唐海县",
+    "JIBIE": "D",
+    "XZQH": "130230",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.42329807614544,
+    "y": 39.247840113430641
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 42,
+    "NAME": "沧州市",
+    "JIBIE": "C",
+    "XZQH": "130900",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 117.08251693830618,
+    "y": 38.460088318321425
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 43,
+    "NAME": "黄骅市",
+    "JIBIE": "D",
+    "XZQH": "130983",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 117.3733358344814,
+    "y": 38.393480167675762
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 44,
+    "NAME": "海兴县",
+    "JIBIE": "D",
+    "XZQH": "130924",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 117.54726346004077,
+    "y": 38.143797397731873
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 45,
+    "NAME": "天津市",
+    "JIBIE": "B",
+    "XZQH": "120000",
+    "LEVEL_MAX": 8,
+    "LEVEL_MIN": 6,
+    "YWJC_LEVEL_MAX": 7,
+    "YWJC_LEVEL_MIN": 6
+   },
+   "geometry": {
+    "x": 117.17956133149039,
+    "y": 38.895611401645056
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 46,
+    "NAME": "山东省",
+    "JIBIE": "B",
+    "XZQH": "370000",
+    "LEVEL_MAX": 8,
+    "LEVEL_MIN": 6,
+    "YWJC_LEVEL_MAX": 7,
+    "YWJC_LEVEL_MIN": 6
+   },
+   "geometry": {
+    "x": 117.62004399243642,
+    "y": 35.9272129485189
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 47,
+    "NAME": "东营市",
+    "JIBIE": "C",
+    "XZQH": "370500",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 118.49229822558277,
+    "y": 37.397509784449142
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 48,
+    "NAME": "东营区",
+    "JIBIE": "D",
+    "XZQH": "370502",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.57905139240802,
+    "y": 37.382947080543488
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 49,
+    "NAME": "河口区",
+    "JIBIE": "D",
+    "XZQH": "370503",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.70252940290982,
+    "y": 37.968903507291202
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 50,
+    "NAME": "垦利县",
+    "JIBIE": "D",
+    "XZQH": "370521",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.71644361288259,
+    "y": 37.617183197546694
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 51,
+    "NAME": "广饶县",
+    "JIBIE": "D",
+    "XZQH": "370523",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.48608613426791,
+    "y": 37.165744381198408
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 52,
+    "NAME": "滨州市",
+    "JIBIE": "C",
+    "XZQH": "371600",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 117.93980399026213,
+    "y": 37.365365504514614
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 53,
+    "NAME": "无棣县",
+    "JIBIE": "D",
+    "XZQH": "371623",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 117.74863300031291,
+    "y": 37.923102566130694
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 54,
+    "NAME": "沾化县",
+    "JIBIE": "D",
+    "XZQH": "371624",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.07445741987419,
+    "y": 37.754972528059909
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 55,
+    "NAME": "烟台市",
+    "JIBIE": "C",
+    "XZQH": "370600",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 121.37025757212939,
+    "y": 37.383826863019465
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 56,
+    "NAME": "芝罘区",
+    "JIBIE": "D",
+    "XZQH": "370602",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.40315225717109,
+    "y": 37.538544822185941
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 57,
+    "NAME": "福山区",
+    "JIBIE": "D",
+    "XZQH": "370611",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.19549204102509,
+    "y": 37.472630014663594
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 58,
+    "NAME": "牟平区",
+    "JIBIE": "D",
+    "XZQH": "370612",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.55030439802977,
+    "y": 37.285174684364335
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 59,
+    "NAME": "莱山区",
+    "JIBIE": "D",
+    "XZQH": "370613",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.43832779559148,
+    "y": 37.509462883105755
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 60,
+    "NAME": "长岛县",
+    "JIBIE": "D",
+    "XZQH": "370634",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.73539280823172,
+    "y": 37.921375426235102
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 61,
+    "NAME": "龙口市",
+    "JIBIE": "D",
+    "XZQH": "370681",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.5036465956141,
+    "y": 37.611772115291046
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 62,
+    "NAME": "莱阳市",
+    "JIBIE": "D",
+    "XZQH": "370682",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.73941515558511,
+    "y": 36.904852942409548
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 63,
+    "NAME": "莱州市",
+    "JIBIE": "D",
+    "XZQH": "370683",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.00428105662559,
+    "y": 37.174247509814904
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 64,
+    "NAME": "蓬莱市",
+    "JIBIE": "D",
+    "XZQH": "370684",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.85990231054336,
+    "y": 37.653801227844554
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 65,
+    "NAME": "招远市",
+    "JIBIE": "D",
+    "XZQH": "370685",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.40160905491416,
+    "y": 37.351267182634558
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 66,
+    "NAME": "海阳市",
+    "JIBIE": "D",
+    "XZQH": "370687",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.09654654758526,
+    "y": 36.85847224250017
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 67,
+    "NAME": "威海市",
+    "JIBIE": "C",
+    "XZQH": "371000",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 122.05174093899336,
+    "y": 37.471782668935191
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 68,
+    "NAME": "环翠区",
+    "JIBIE": "D",
+    "XZQH": "371002",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 122.10378075417862,
+    "y": 37.420451727265572
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 69,
+    "NAME": "文登市",
+    "JIBIE": "D",
+    "XZQH": "371081",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.99555912075698,
+    "y": 37.183910155929141
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 70,
+    "NAME": "荣成市",
+    "JIBIE": "D",
+    "XZQH": "371082",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 122.38824904905459,
+    "y": 37.193959307276373
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 71,
+    "NAME": "乳山市",
+    "JIBIE": "D",
+    "XZQH": "371083",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.52324898944948,
+    "y": 36.967466888186493
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 72,
+    "NAME": "潍坊市",
+    "JIBIE": "C",
+    "XZQH": "370700",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 119.07757036538021,
+    "y": 36.707268120727349
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 73,
+    "NAME": "寒亭区",
+    "JIBIE": "D",
+    "XZQH": "370703",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.20972668973513,
+    "y": 36.789887168857945
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 74,
+    "NAME": "寿光市",
+    "JIBIE": "D",
+    "XZQH": "370783",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.83471439855077,
+    "y": 37.03703793805056
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 75,
+    "NAME": "昌邑市",
+    "JIBIE": "D",
+    "XZQH": "370786",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.40674303466346,
+    "y": 36.887073673811187
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 76,
+    "NAME": "青岛市",
+    "JIBIE": "C",
+    "XZQH": "370200",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 120.36877141566845,
+    "y": 36.009199155416866
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 77,
+    "NAME": "市南区",
+    "JIBIE": "D",
+    "XZQH": "370202",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.37610712534376,
+    "y": 36.069834304010101
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 78,
+    "NAME": "市北区",
+    "JIBIE": "D",
+    "XZQH": "370203",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.37358071387905,
+    "y": 36.088029708704255
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 79,
+    "NAME": "四方区",
+    "JIBIE": "D",
+    "XZQH": "370205",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.36453051327271,
+    "y": 36.102254518431437
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 80,
+    "NAME": "黄岛区",
+    "JIBIE": "D",
+    "XZQH": "370211",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.11404871367733,
+    "y": 36.016469280233252
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 81,
+    "NAME": "崂山区",
+    "JIBIE": "D",
+    "XZQH": "370212",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.46595552572705,
+    "y": 36.103912887170168
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 82,
+    "NAME": "李沦区",
+    "JIBIE": "D",
+    "XZQH": "370213",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.40512278348979,
+    "y": 36.162070018616646
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 83,
+    "NAME": "城阳区",
+    "JIBIE": "D",
+    "XZQH": "370214",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.36362364411605,
+    "y": 36.300123348713726
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 84,
+    "NAME": "胶州市",
+    "JIBIE": "D",
+    "XZQH": "370281",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.95519481468909,
+    "y": 36.240062905578782
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 85,
+    "NAME": "即墨市",
+    "JIBIE": "D",
+    "XZQH": "370282",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.52645044033568,
+    "y": 36.464622795805553
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 86,
+    "NAME": "胶南市",
+    "JIBIE": "D",
+    "XZQH": "370284",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.84542715763735,
+    "y": 35.835004790039193
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 87,
+    "NAME": "日照市",
+    "JIBIE": "C",
+    "XZQH": "371100",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 119.57454498746142,
+    "y": 35.505846441560209
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 88,
+    "NAME": "东港区",
+    "JIBIE": "D",
+    "XZQH": "371102",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.44905531944767,
+    "y": 35.426008250980146
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 89,
+    "NAME": "岚山区",
+    "JIBIE": "D",
+    "XZQH": "371103",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.34257407383461,
+    "y": 35.095070225110987
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 90,
+    "NAME": "江苏省",
+    "JIBIE": "B",
+    "XZQH": "320000",
+    "LEVEL_MAX": 8,
+    "LEVEL_MIN": 6,
+    "YWJC_LEVEL_MAX": 7,
+    "YWJC_LEVEL_MIN": 6
+   },
+   "geometry": {
+    "x": 119.76547977137454,
+    "y": 32.797816083845362
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 91,
+    "NAME": "连云港市",
+    "JIBIE": "C",
+    "XZQH": "320700",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 119.15904263221194,
+    "y": 34.552165261118091
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 92,
+    "NAME": "连云区",
+    "JIBIE": "D",
+    "XZQH": "320703",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.36434891067381,
+    "y": 34.731419827463242
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 93,
+    "NAME": "赣榆县",
+    "JIBIE": "D",
+    "XZQH": "320721",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.02371575158088,
+    "y": 34.878596100729624
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 94,
+    "NAME": "灌云县",
+    "JIBIE": "D",
+    "XZQH": "320723",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.3831661785764,
+    "y": 34.388893206956084
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 95,
+    "NAME": "灌南县",
+    "JIBIE": "D",
+    "XZQH": "320724",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.36996790179739,
+    "y": 34.085669828699793
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 96,
+    "NAME": "盐城市",
+    "JIBIE": "C",
+    "XZQH": "320900",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 120.17920526591047,
+    "y": 33.328236952373629
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 97,
+    "NAME": "响水县",
+    "JIBIE": "D",
+    "XZQH": "320921",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.78242670662735,
+    "y": 34.228710694543111
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 98,
+    "NAME": "射阳县",
+    "JIBIE": "D",
+    "XZQH": "320924",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.26865104790772,
+    "y": 33.72064877432166
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 99,
+    "NAME": "滨海县",
+    "JIBIE": "D",
+    "XZQH": "320922",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.06921403649881,
+    "y": 34.155274586053451
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 100,
+    "NAME": "东台市",
+    "JIBIE": "D",
+    "XZQH": "320981",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.5299289928289,
+    "y": 32.796126815300454
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 101,
+    "NAME": "大丰市",
+    "JIBIE": "D",
+    "XZQH": "320982",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.48509431565037,
+    "y": 33.172583499529026
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 102,
+    "NAME": "南通市",
+    "JIBIE": "C",
+    "XZQH": "320600",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 120.81671616891629,
+    "y": 32.034092135044148
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 103,
+    "NAME": "海安县",
+    "JIBIE": "D",
+    "XZQH": "320621",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.45726589570472,
+    "y": 32.548763081251366
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 104,
+    "NAME": "如东县",
+    "JIBIE": "D",
+    "XZQH": "320623",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.05596343426521,
+    "y": 32.37831400728578
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 105,
+    "NAME": "启东市",
+    "JIBIE": "D",
+    "XZQH": "320681",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.65350145622745,
+    "y": 31.877015939434216
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 106,
+    "NAME": "通州市",
+    "JIBIE": "D",
+    "XZQH": "320683",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.05132536427436,
+    "y": 32.107373417149631
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 107,
+    "NAME": "海门市",
+    "JIBIE": "D",
+    "XZQH": "320684",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.29791608785729,
+    "y": 31.948906024293763
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 108,
+    "NAME": "上海市",
+    "JIBIE": "B",
+    "XZQH": "310000",
+    "LEVEL_MAX": 8,
+    "LEVEL_MIN": 6,
+    "YWJC_LEVEL_MAX": 7,
+    "YWJC_LEVEL_MIN": 6
+   },
+   "geometry": {
+    "x": 121.18990832041288,
+    "y": 30.918018371750634
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 109,
+    "NAME": "浙江省",
+    "JIBIE": "B",
+    "XZQH": "330000",
+    "LEVEL_MAX": 8,
+    "LEVEL_MIN": 6,
+    "YWJC_LEVEL_MAX": 7,
+    "YWJC_LEVEL_MIN": 6
+   },
+   "geometry": {
+    "x": 119.77725258673763,
+    "y": 28.810775673258888
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 110,
+    "NAME": "嘉兴市",
+    "JIBIE": "C",
+    "XZQH": "330400",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 120.72901168484157,
+    "y": 30.733255769938012
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 111,
+    "NAME": "海盐县",
+    "JIBIE": "D",
+    "XZQH": "330424",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.87575508832686,
+    "y": 30.533871925549079
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 112,
+    "NAME": "海宁市",
+    "JIBIE": "D",
+    "XZQH": "330481",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.61389738555613,
+    "y": 30.461281298493304
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 113,
+    "NAME": "平湖市",
+    "JIBIE": "D",
+    "XZQH": "330482",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.07596511110114,
+    "y": 30.715529668359693
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 114,
+    "NAME": "舟山市",
+    "JIBIE": "C",
+    "XZQH": "330900",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 122.04765610944207,
+    "y": 30.031816405502866
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 115,
+    "NAME": "定海区",
+    "JIBIE": "D",
+    "XZQH": "330902",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 122.10470459174371,
+    "y": 30.051410739813946
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 116,
+    "NAME": "普陀区",
+    "JIBIE": "D",
+    "XZQH": "330903",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 122.27676627244568,
+    "y": 30.000433481719995
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 117,
+    "NAME": "岱山县",
+    "JIBIE": "D",
+    "XZQH": "330921",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 122.34556431094438,
+    "y": 30.443369168552465
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 118,
+    "NAME": "嵊泗县",
+    "JIBIE": "D",
+    "XZQH": "330922",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 122.45104300043431,
+    "y": 30.723547000293991
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 119,
+    "NAME": "滨江区",
+    "JIBIE": "D",
+    "XZQH": "330108",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.17463350293394,
+    "y": 30.182417338489529
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 120,
+    "NAME": "萧山区",
+    "JIBIE": "D",
+    "XZQH": "330109",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.29541657711354,
+    "y": 30.178359027247495
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 121,
+    "NAME": "宁波市",
+    "JIBIE": "C",
+    "XZQH": "330200",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 121.53212413252288,
+    "y": 29.837552436595843
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 122,
+    "NAME": "海曙区",
+    "JIBIE": "D",
+    "XZQH": "330203",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.52752470999758,
+    "y": 29.874335952942033
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 123,
+    "NAME": "江东区",
+    "JIBIE": "D",
+    "XZQH": "330204",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.58704660851436,
+    "y": 29.87003607570449
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 124,
+    "NAME": "江北区",
+    "JIBIE": "D",
+    "XZQH": "330205",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.47689244622961,
+    "y": 29.96168627140446
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 125,
+    "NAME": "北仑区",
+    "JIBIE": "D",
+    "XZQH": "330206",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.86938912191067,
+    "y": 29.851242228845933
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 126,
+    "NAME": "镇海区",
+    "JIBIE": "D",
+    "XZQH": "330211",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.6057921419939,
+    "y": 29.981108189491522
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 127,
+    "NAME": "鄞州区",
+    "JIBIE": "D",
+    "XZQH": "330212",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.5369941034952,
+    "y": 29.788628283968308
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 128,
+    "NAME": "象山县",
+    "JIBIE": "D",
+    "XZQH": "330225",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.41466500658498,
+    "y": 29.299795028318044
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 129,
+    "NAME": "宁海县",
+    "JIBIE": "D",
+    "XZQH": "330226",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.8336373320974,
+    "y": 29.423476895342617
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 130,
+    "NAME": "余姚市",
+    "JIBIE": "D",
+    "XZQH": "330281",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.17135958287861,
+    "y": 30.008936610336491
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 131,
+    "NAME": "慈溪市",
+    "JIBIE": "D",
+    "XZQH": "330282",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.33291902209533,
+    "y": 30.175134119544168
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 132,
+    "NAME": "奉化市",
+    "JIBIE": "D",
+    "XZQH": "330283",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.34760624433284,
+    "y": 29.617019692504982
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 133,
+    "NAME": "上虞市",
+    "JIBIE": "D",
+    "XZQH": "330621",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.87133442854122,
+    "y": 30.030629250040022
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 134,
+    "NAME": "绍兴县",
+    "JIBIE": "D",
+    "XZQH": "330682",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.58068204004428,
+    "y": 29.930910744335563
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 135,
+    "NAME": "台州市",
+    "JIBIE": "C",
+    "XZQH": "331000",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 121.36716215960621,
+    "y": 28.657330379793336
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 136,
+    "NAME": "椒江区",
+    "JIBIE": "D",
+    "XZQH": "331002",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.42741969906001,
+    "y": 28.664862567054001
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 137,
+    "NAME": "路桥区",
+    "JIBIE": "D",
+    "XZQH": "331004",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.37582427307188,
+    "y": 28.593809070232567
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 138,
+    "NAME": "玉环县",
+    "JIBIE": "D",
+    "XZQH": "331021",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.22324799090222,
+    "y": 28.14882896358597
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 139,
+    "NAME": "三门县",
+    "JIBIE": "D",
+    "XZQH": "331022",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.43553632154419,
+    "y": 29.025375884789412
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 140,
+    "NAME": "温岭市",
+    "JIBIE": "D",
+    "XZQH": "331081",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.38055586626035,
+    "y": 28.414889917735707
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 141,
+    "NAME": "临海市",
+    "JIBIE": "D",
+    "XZQH": "331082",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.208657396322,
+    "y": 28.857342473476535
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 142,
+    "NAME": "温州市",
+    "JIBIE": "C",
+    "XZQH": "330300",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 120.6531280102497,
+    "y": 27.954719067431199
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 143,
+    "NAME": "鹿城区",
+    "JIBIE": "D",
+    "XZQH": "330302",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.66021991821481,
+    "y": 28.020086233692894
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 144,
+    "NAME": "龙湾区",
+    "JIBIE": "D",
+    "XZQH": "330303",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.81255477738125,
+    "y": 27.934934298978874
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 145,
+    "NAME": "瓯海区",
+    "JIBIE": "D",
+    "XZQH": "330304",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.55353000470609,
+    "y": 27.965528571286711
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 146,
+    "NAME": "洞头县",
+    "JIBIE": "D",
+    "XZQH": "330322",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.0961841981424,
+    "y": 27.968234112414507
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 147,
+    "NAME": "平阳县",
+    "JIBIE": "D",
+    "XZQH": "330326",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.36955322690005,
+    "y": 27.631780782757062
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 148,
+    "NAME": "苍南县",
+    "JIBIE": "D",
+    "XZQH": "330327",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.43294018404242,
+    "y": 27.441813163946506
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 149,
+    "NAME": "瑞安市",
+    "JIBIE": "D",
+    "XZQH": "330381",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.47004474486926,
+    "y": 27.832763816896772
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 150,
+    "NAME": "乐清市",
+    "JIBIE": "D",
+    "XZQH": "330382",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.99066810494924,
+    "y": 28.248644096048338
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 151,
+    "NAME": "福建省",
+    "JIBIE": "B",
+    "XZQH": "350000",
+    "LEVEL_MAX": 8,
+    "LEVEL_MIN": 6,
+    "YWJC_LEVEL_MAX": 7,
+    "YWJC_LEVEL_MIN": 6
+   },
+   "geometry": {
+    "x": 117.71376225112715,
+    "y": 25.523932162439507
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 152,
+    "NAME": "厦门市",
+    "JIBIE": "C",
+    "XZQH": "350200",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 118.08562437456544,
+    "y": 24.383316328585863
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 153,
+    "NAME": "思明区",
+    "JIBIE": "D",
+    "XZQH": "350203",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.09166806063263,
+    "y": 24.446966529881593
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 154,
+    "NAME": "海沧区",
+    "JIBIE": "D",
+    "XZQH": "350205",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 117.98252019475137,
+    "y": 24.464378694321454
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 155,
+    "NAME": "湖里区",
+    "JIBIE": "D",
+    "XZQH": "350206",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.10197988686241,
+    "y": 24.519044414768075
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 156,
+    "NAME": "集美区",
+    "JIBIE": "D",
+    "XZQH": "350211",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 117.96987135607844,
+    "y": 24.597788482952296
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 157,
+    "NAME": "同安区",
+    "JIBIE": "D",
+    "XZQH": "350212",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.1457315114003,
+    "y": 24.763019728178051
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 158,
+    "NAME": "翔安区",
+    "JIBIE": "D",
+    "XZQH": "350213",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.23900390870358,
+    "y": 24.668232914817338
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 159,
+    "NAME": "宁德市",
+    "JIBIE": "C",
+    "XZQH": "350900",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 119.37409607327538,
+    "y": 26.742997688492721
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 160,
+    "NAME": "蕉城区",
+    "JIBIE": "D",
+    "XZQH": "350902",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.50670460463402,
+    "y": 26.661357998473022
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 161,
+    "NAME": "霞浦县",
+    "JIBIE": "D",
+    "XZQH": "350921",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.93673312253577,
+    "y": 26.872993960902761
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 162,
+    "NAME": "福安市",
+    "JIBIE": "D",
+    "XZQH": "350981",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.62015464731928,
+    "y": 27.057970595966367
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 163,
+    "NAME": "福鼎市",
+    "JIBIE": "D",
+    "XZQH": "350982",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.1143627497413,
+    "y": 27.254406147026202
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 164,
+    "NAME": "福州市",
+    "JIBIE": "C",
+    "XZQH": "350100",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 119.34926849044871,
+    "y": 26.043939169457246
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 165,
+    "NAME": "马尾区",
+    "JIBIE": "D",
+    "XZQH": "350105",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.4362547822326,
+    "y": 26.012132140685935
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 166,
+    "NAME": "连江县",
+    "JIBIE": "D",
+    "XZQH": "350122",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.51502506025849,
+    "y": 26.294235064796567
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 167,
+    "NAME": "罗源县",
+    "JIBIE": "D",
+    "XZQH": "350123",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.42380968317048,
+    "y": 26.509132308909102
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 168,
+    "NAME": "平潭县",
+    "JIBIE": "D",
+    "XZQH": "350128",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.76934590019334,
+    "y": 25.540741938489816
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 169,
+    "NAME": "福清市",
+    "JIBIE": "D",
+    "XZQH": "350181",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.34902080366737,
+    "y": 25.660534591098667
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 170,
+    "NAME": "长乐市",
+    "JIBIE": "D",
+    "XZQH": "350182",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.52681348785234,
+    "y": 25.919106994892047
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 171,
+    "NAME": "莆田市",
+    "JIBIE": "C",
+    "XZQH": "350300",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 119.09506323138316,
+    "y": 25.404408988983846
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 172,
+    "NAME": "城厢区",
+    "JIBIE": "D",
+    "XZQH": "350302",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.97705837704268,
+    "y": 25.428089951490222
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 173,
+    "NAME": "涵江区",
+    "JIBIE": "D",
+    "XZQH": "350303",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.10283949464713,
+    "y": 25.465054846703993
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 174,
+    "NAME": "荔城区",
+    "JIBIE": "D",
+    "XZQH": "350304",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.02381900004696,
+    "y": 25.432733000127996
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 175,
+    "NAME": "秀屿区",
+    "JIBIE": "D",
+    "XZQH": "350305",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.00481110015232,
+    "y": 25.446761534617281
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 176,
+    "NAME": "仙游县",
+    "JIBIE": "D",
+    "XZQH": "350322",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.67340860322463,
+    "y": 25.460711073557377
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 177,
+    "NAME": "泉州市",
+    "JIBIE": "C",
+    "XZQH": "350500",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 118.62356287122975,
+    "y": 25.012662662651906
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 178,
+    "NAME": "丰泽区",
+    "JIBIE": "D",
+    "XZQH": "350503",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.61697259430991,
+    "y": 24.901971814647709
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 179,
+    "NAME": "洛江区",
+    "JIBIE": "D",
+    "XZQH": "350504",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.6610761262624,
+    "y": 24.940551764552481
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 180,
+    "NAME": "泉港区",
+    "JIBIE": "D",
+    "XZQH": "350505",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.90163720579255,
+    "y": 25.134866780777486
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 181,
+    "NAME": "惠安县",
+    "JIBIE": "D",
+    "XZQH": "350521",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.76877891831259,
+    "y": 25.024297672199964
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 182,
+    "NAME": "金门县",
+    "JIBIE": "D",
+    "XZQH": "350527",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.37415646025261,
+    "y": 24.448983736210607
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 183,
+    "NAME": "石狮市",
+    "JIBIE": "D",
+    "XZQH": "350581",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.62247918007029,
+    "y": 24.755271610996203
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 184,
+    "NAME": "晋江市",
+    "JIBIE": "D",
+    "XZQH": "350582",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.5569737205609,
+    "y": 24.730553237342178
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 185,
+    "NAME": "南安市",
+    "JIBIE": "D",
+    "XZQH": "350593",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 118.39000319998786,
+    "y": 25.042076940798324
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 186,
+    "NAME": "漳州市",
+    "JIBIE": "C",
+    "XZQH": "350600",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 117.63706638170834,
+    "y": 24.478274857598763
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 187,
+    "NAME": "云霄县",
+    "JIBIE": "D",
+    "XZQH": "350622",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 117.31256987050335,
+    "y": 23.980538663528648
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 188,
+    "NAME": "漳浦县",
+    "JIBIE": "D",
+    "XZQH": "350623",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 117.6681552388734,
+    "y": 24.142098102745422
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 189,
+    "NAME": "诏安县",
+    "JIBIE": "D",
+    "XZQH": "350624",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 117.10988379470155,
+    "y": 23.85827599773927
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 190,
+    "NAME": "东山县",
+    "JIBIE": "D",
+    "XZQH": "350626",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 117.42388355028584,
+    "y": 23.699162415912951
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 191,
+    "NAME": "龙海市",
+    "JIBIE": "D",
+    "XZQH": "350681",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 117.70216775244,
+    "y": 24.416517246274054
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 192,
+    "NAME": "广东省",
+    "JIBIE": "B",
+    "XZQH": "440000",
+    "LEVEL_MAX": 8,
+    "LEVEL_MIN": 6,
+    "YWJC_LEVEL_MAX": 7,
+    "YWJC_LEVEL_MIN": 6
+   },
+   "geometry": {
+    "x": 113.10258593649201,
+    "y": 23.662046410313735
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 193,
+    "NAME": "潮州市",
+    "JIBIE": "C",
+    "XZQH": "445100",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 116.67628398351917,
+    "y": 23.614371307190254
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 194,
+    "NAME": "饶平县",
+    "JIBIE": "D",
+    "XZQH": "445122",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 116.87459836672144,
+    "y": 23.856053589501698
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 195,
+    "NAME": "广州市",
+    "JIBIE": "C",
+    "XZQH": "440100",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 113.37861551309561,
+    "y": 23.082377307666775
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 196,
+    "NAME": "海珠区",
+    "JIBIE": "D",
+    "XZQH": "440105",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 113.32019414464423,
+    "y": 23.082235536740768
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 197,
+    "NAME": "黄埔区",
+    "JIBIE": "D",
+    "XZQH": "440112",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 113.48526077526469,
+    "y": 23.11436004867744
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 198,
+    "NAME": "番禺区",
+    "JIBIE": "D",
+    "XZQH": "440113",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 113.42026597149754,
+    "y": 22.911097162104511
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 199,
+    "NAME": "南沙区",
+    "JIBIE": "D",
+    "XZQH": "440115",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 113.51324172472596,
+    "y": 22.725070054139849
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 200,
+    "NAME": "深圳市",
+    "JIBIE": "C",
+    "XZQH": "440300",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 114.16290869727868,
+    "y": 22.523611837116732
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 201,
+    "NAME": "福田区",
+    "JIBIE": "D",
+    "XZQH": "440304",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 114.05849970549718,
+    "y": 22.553387655316214
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 202,
+    "NAME": "南山区",
+    "JIBIE": "D",
+    "XZQH": "440305",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 113.95564306497567,
+    "y": 22.550731174004625
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 203,
+    "NAME": "宝安区",
+    "JIBIE": "D",
+    "XZQH": "440306",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 113.92505155358651,
+    "y": 22.71600631424019
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 204,
+    "NAME": "龙岗区",
+    "JIBIE": "D",
+    "XZQH": "440307",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 114.36798724131836,
+    "y": 22.669625614330812
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 205,
+    "NAME": "盐田区",
+    "JIBIE": "D",
+    "XZQH": "440308",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 114.26799950197562,
+    "y": 22.600023998309041
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 206,
+    "NAME": "揭阳市",
+    "JIBIE": "C",
+    "XZQH": "445200",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 116.43037189644599,
+    "y": 23.446389347890261
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 207,
+    "NAME": "榕城区",
+    "JIBIE": "D",
+    "XZQH": "445202",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 116.36485470797857,
+    "y": 23.524160107702983
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 208,
+    "NAME": "惠来县",
+    "JIBIE": "D",
+    "XZQH": "445224",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 116.19956592502763,
+    "y": 23.030670377436138
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 209,
+    "NAME": "汕头市",
+    "JIBIE": "C",
+    "XZQH": "440500",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 116.7248953861133,
+    "y": 23.227301397042027
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 210,
+    "NAME": "龙湖区",
+    "JIBIE": "D",
+    "XZQH": "440507",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 116.71543688880161,
+    "y": 23.378380793638883
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 211,
+    "NAME": "金平区",
+    "JIBIE": "D",
+    "XZQH": "440511",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 116.61742360831306,
+    "y": 23.382524456838382
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 212,
+    "NAME": "濠江区",
+    "JIBIE": "D",
+    "XZQH": "440512",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 116.69893949316327,
+    "y": 23.262006367899744
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 213,
+    "NAME": "潮阳区",
+    "JIBIE": "D",
+    "XZQH": "440513",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 116.45866843959698,
+    "y": 23.339416393451984
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 214,
+    "NAME": "潮南区",
+    "JIBIE": "D",
+    "XZQH": "440514",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 116.40194531492455,
+    "y": 23.152359798266218
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 215,
+    "NAME": "澄海区",
+    "JIBIE": "D",
+    "XZQH": "440515",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 116.78947045649659,
+    "y": 23.509454480839793
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 216,
+    "NAME": "南澳县",
+    "JIBIE": "D",
+    "XZQH": "440523",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 117.06408285264172,
+    "y": 23.437177889847931
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 217,
+    "NAME": "惠州市",
+    "JIBIE": "C",
+    "XZQH": "441300",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 114.27350278362678,
+    "y": 22.91696869454978
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 218,
+    "NAME": "惠阳区",
+    "JIBIE": "D",
+    "XZQH": "441303",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 114.43833130344706,
+    "y": 22.865197567114194
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 219,
+    "NAME": "惠东县",
+    "JIBIE": "D",
+    "XZQH": "441323",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 114.8292577988085,
+    "y": 22.859085943561638
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 220,
+    "NAME": "汕尾市",
+    "JIBIE": "C",
+    "XZQH": "441500",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 115.34564943587293,
+    "y": 22.722909453608565
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 221,
+    "NAME": "城区",
+    "JIBIE": "D",
+    "XZQH": "441502",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 115.47824029375477,
+    "y": 22.781608257515245
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 222,
+    "NAME": "海丰县",
+    "JIBIE": "D",
+    "XZQH": "441521",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 115.38753271166547,
+    "y": 23.000000000000171
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 223,
+    "NAME": "陆丰市",
+    "JIBIE": "D",
+    "XZQH": "441581",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 115.73682181397567,
+    "y": 22.985449195024501
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 224,
+    "NAME": "东莞市",
+    "JIBIE": "C",
+    "XZQH": "441900",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 113.76442787964311,
+    "y": 22.907257636131192
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 225,
+    "NAME": "珠海市",
+    "JIBIE": "C",
+    "XZQH": "440400",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 113.56613500013032,
+    "y": 22.23289756267252
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 226,
+    "NAME": "香洲区",
+    "JIBIE": "D",
+    "XZQH": "440402",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 113.533830684039,
+    "y": 22.326835710100113
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 227,
+    "NAME": "斗门区",
+    "JIBIE": "D",
+    "XZQH": "440403",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 113.23108032669586,
+    "y": 22.198185121146594
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 228,
+    "NAME": "金湾区",
+    "JIBIE": "D",
+    "XZQH": "440404",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 113.21117527571857,
+    "y": 22.007202924975161
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 229,
+    "NAME": "江门市",
+    "JIBIE": "C",
+    "XZQH": "440700",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 113.10963611411557,
+    "y": 22.526626305259924
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 230,
+    "NAME": "台山市",
+    "JIBIE": "D",
+    "XZQH": "440781",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 112.73828538566215,
+    "y": 22.095036376327869
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 231,
+    "NAME": "新会区",
+    "JIBIE": "D",
+    "XZQH": "440705",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 113.04209807346751,
+    "y": 22.354598695373681
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 232,
+    "NAME": "恩平市",
+    "JIBIE": "D",
+    "XZQH": "440785",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 112.27899533496691,
+    "y": 22.222562042004824
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 233,
+    "NAME": "中山市",
+    "JIBIE": "C",
+    "XZQH": "442000",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 113.39760172583919,
+    "y": 22.498267439091194
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 234,
+    "NAME": "阳江市",
+    "JIBIE": "C",
+    "XZQH": "441700",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 111.95013865147774,
+    "y": 21.685166820392624
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 235,
+    "NAME": "江城区",
+    "JIBIE": "D",
+    "XZQH": "441702",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 111.9156531448769,
+    "y": 21.817873623369167
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 236,
+    "NAME": "阳西县",
+    "JIBIE": "D",
+    "XZQH": "441721",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 111.5625346348657,
+    "y": 21.708530540752008
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 237,
+    "NAME": "阳东县",
+    "JIBIE": "D",
+    "XZQH": "441723",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 112.08663654743884,
+    "y": 21.929611879384879
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 238,
+    "NAME": "湛江市",
+    "JIBIE": "C",
+    "XZQH": "440800",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 110.34245586784419,
+    "y": 21.188651542334981
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 239,
+    "NAME": "赤坎区",
+    "JIBIE": "D",
+    "XZQH": "440802",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 110.35586936767737,
+    "y": 21.277768612231853
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 240,
+    "NAME": "霞山区",
+    "JIBIE": "D",
+    "XZQH": "440803",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 110.38487199464703,
+    "y": 21.19383726617707
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 241,
+    "NAME": "坡头区",
+    "JIBIE": "D",
+    "XZQH": "440804",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 110.50056143825992,
+    "y": 21.319217391369705
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 242,
+    "NAME": "麻章区",
+    "JIBIE": "D",
+    "XZQH": "440811",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 110.40825978805896,
+    "y": 21.008276372157013
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 243,
+    "NAME": "遂溪县",
+    "JIBIE": "D",
+    "XZQH": "440823",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 110.0362230909231,
+    "y": 21.293423273865187
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 244,
+    "NAME": "徐闻县",
+    "JIBIE": "D",
+    "XZQH": "440825",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 110.25523061360212,
+    "y": 20.419333756447884
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 245,
+    "NAME": "廉江市",
+    "JIBIE": "D",
+    "XZQH": "440881",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 110.12302384627367,
+    "y": 21.641081875628231
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 246,
+    "NAME": "雷州市",
+    "JIBIE": "D",
+    "XZQH": "440882",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 109.97438215651147,
+    "y": 20.779370512639218
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 247,
+    "NAME": "吴川市",
+    "JIBIE": "D",
+    "XZQH": "440883",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 110.69057747027421,
+    "y": 21.431019350862528
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 248,
+    "NAME": "茂名市",
+    "JIBIE": "C",
+    "XZQH": "440900",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 110.89155008307006,
+    "y": 21.47582444664107
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 249,
+    "NAME": "茂港区",
+    "JIBIE": "D",
+    "XZQH": "440903",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 110.99113959002023,
+    "y": 21.598841688593211
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 250,
+    "NAME": "电白县",
+    "JIBIE": "D",
+    "XZQH": "440923",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 111.17139072929888,
+    "y": 21.655965747221614
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 251,
+    "NAME": "广西壮族自治区",
+    "JIBIE": "B",
+    "XZQH": "450000",
+    "LEVEL_MAX": 8,
+    "LEVEL_MIN": 6,
+    "YWJC_LEVEL_MAX": 7,
+    "YWJC_LEVEL_MIN": 6
+   },
+   "geometry": {
+    "x": 108.61339113709147,
+    "y": 23.732515805560126
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 252,
+    "NAME": "钦州市",
+    "JIBIE": "C",
+    "XZQH": "450700",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 108.77429754799363,
+    "y": 21.863123899748359
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 253,
+    "NAME": "钦南区",
+    "JIBIE": "D",
+    "XZQH": "450702",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 108.60946700020207,
+    "y": 21.937950000392391
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 254,
+    "NAME": "防城港市",
+    "JIBIE": "C",
+    "XZQH": "450600",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 108.28075933437594,
+    "y": 21.500429785406425
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 255,
+    "NAME": "港口区",
+    "JIBIE": "D",
+    "XZQH": "450602",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 108.34608539352627,
+    "y": 21.624515903086603
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 256,
+    "NAME": "防城区",
+    "JIBIE": "D",
+    "XZQH": "450603",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 108.35611462399089,
+    "y": 21.778551452187912
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 257,
+    "NAME": "东兴市",
+    "JIBIE": "D",
+    "XZQH": "450681",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 108.03934069191956,
+    "y": 21.615286008043029
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 258,
+    "NAME": "北海市",
+    "JIBIE": "C",
+    "XZQH": "450500",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 109.1027529773682,
+    "y": 21.418749037738053
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 259,
+    "NAME": "海城区",
+    "JIBIE": "D",
+    "XZQH": "450502",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 109.10471100021266,
+    "y": 21.471280999718545
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 260,
+    "NAME": "银海区",
+    "JIBIE": "D",
+    "XZQH": "450503",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 109.12788400044644,
+    "y": 21.481025000303703
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 261,
+    "NAME": "铁山港区",
+    "JIBIE": "D",
+    "XZQH": "450512",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 109.41696199979663,
+    "y": 21.522072000122876
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 262,
+    "NAME": "合浦县",
+    "JIBIE": "D",
+    "XZQH": "450521",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 109.53376550467448,
+    "y": 21.571707475120036
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 263,
+    "NAME": "海南省",
+    "JIBIE": "B",
+    "XZQH": "460000",
+    "LEVEL_MAX": 8,
+    "LEVEL_MIN": 6,
+    "YWJC_LEVEL_MAX": 7,
+    "YWJC_LEVEL_MIN": 6
+   },
+   "geometry": {
+    "x": 109.45275891759013,
+    "y": 18.955937430268364
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 264,
+    "NAME": "海口市",
+    "JIBIE": "C",
+    "XZQH": "460100",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 110.34202753514279,
+    "y": 19.94482637543706
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 265,
+    "NAME": "秀英区",
+    "JIBIE": "D",
+    "XZQH": "460105",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 110.28755559521471,
+    "y": 20.023723669212131
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 266,
+    "NAME": "龙华区",
+    "JIBIE": "D",
+    "XZQH": "460106",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 110.30609559223797,
+    "y": 20.031724803457053
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 267,
+    "NAME": "美兰区",
+    "JIBIE": "D",
+    "XZQH": "460108",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 110.35294223000011,
+    "y": 20.021497330937223
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 268,
+    "NAME": "三亚市",
+    "JIBIE": "C",
+    "XZQH": "460200",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 109.4057620148053,
+    "y": 18.298546538592063
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 269,
+    "NAME": "琼海市",
+    "JIBIE": "D",
+    "XZQH": "469002",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 110.40649568063134,
+    "y": 19.200107669033855
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 270,
+    "NAME": "儋州市",
+    "JIBIE": "D",
+    "XZQH": "469003",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 109.44139061008877,
+    "y": 19.553567255924293
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 271,
+    "NAME": "文昌市",
+    "JIBIE": "D",
+    "XZQH": "469005",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 110.78759043485087,
+    "y": 19.747399932461065
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 272,
+    "NAME": "万宁市",
+    "JIBIE": "D",
+    "XZQH": "469006",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 110.2650345450084,
+    "y": 18.817853398215902
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 273,
+    "NAME": "东方市",
+    "JIBIE": "D",
+    "XZQH": "469007",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 108.82645982566061,
+    "y": 18.997192105131717
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 274,
+    "NAME": "澄迈县",
+    "JIBIE": "D",
+    "XZQH": "469027",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 109.99279315118315,
+    "y": 19.679175081365088
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 275,
+    "NAME": "临高县",
+    "JIBIE": "D",
+    "XZQH": "469028",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 109.70832485630723,
+    "y": 19.805948995649771
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 276,
+    "NAME": "昌江黎族自治县",
+    "JIBIE": "D",
+    "XZQH": "469031",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 109.04908718702421,
+    "y": 19.193537070179786
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 277,
+    "NAME": "乐东黎族自治县",
+    "JIBIE": "D",
+    "XZQH": "469033",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 109.02744285980032,
+    "y": 18.643152760391729
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 278,
+    "NAME": "陵水黎族自治县",
+    "JIBIE": "D",
+    "XZQH": "469034",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 109.94423470157039,
+    "y": 18.570682915884049
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 279,
+    "NAME": "北京市",
+    "JIBIE": "B",
+    "XZQH": "110000",
+    "LEVEL_MAX": 8,
+    "LEVEL_MIN": 6,
+    "YWJC_LEVEL_MAX": 7,
+    "YWJC_LEVEL_MIN": 6
+   },
+   "geometry": {
+    "x": 116.3907599996744,
+    "y": 39.909799999970176
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 280,
+    "NAME": "澳门特别行政区",
+    "JIBIE": "B",
+    "XZQH": "820000",
+    "LEVEL_MAX": 8,
+    "LEVEL_MIN": 6,
+    "YWJC_LEVEL_MAX": 7,
+    "YWJC_LEVEL_MIN": 6
+   },
+   "geometry": {
+    "x": 113.57220240131994,
+    "y": 22.131864679811315
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 281,
+    "NAME": "香港特别行政区",
+    "JIBIE": "B",
+    "XZQH": "810000",
+    "LEVEL_MAX": 8,
+    "LEVEL_MIN": 6,
+    "YWJC_LEVEL_MAX": 7,
+    "YWJC_LEVEL_MIN": 6
+   },
+   "geometry": {
+    "x": 114.12625892900655,
+    "y": 22.420578999621284
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 282,
+    "NAME": "台湾省",
+    "JIBIE": "B",
+    "XZQH": "710000",
+    "LEVEL_MAX": 8,
+    "LEVEL_MIN": 6,
+    "YWJC_LEVEL_MAX": 7,
+    "YWJC_LEVEL_MIN": 6
+   },
+   "geometry": {
+    "x": 120.89042298863023,
+    "y": 23.624242746205937
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 283,
+    "NAME": "三沙市",
+    "JIBIE": "C",
+    "XZQH": "460300",
+    "LEVEL_MAX": 11,
+    "LEVEL_MIN": 9,
+    "YWJC_LEVEL_MAX": 9,
+    "YWJC_LEVEL_MIN": 8
+   },
+   "geometry": {
+    "x": 114.4504626155574,
+    "y": 10.679851689903728
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 284,
+    "NAME": "台南县",
+    "JIBIE": "D",
+    "XZQH": "710000",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.33287140768948,
+    "y": 23.176606526070486
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 285,
+    "NAME": "台东县",
+    "JIBIE": "D",
+    "XZQH": "710000",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.08839368961731,
+    "y": 23.05176514244755
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 286,
+    "NAME": "花莲县",
+    "JIBIE": "D",
+    "XZQH": "710000",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.43273415455781,
+    "y": 23.784743261592439
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 287,
+    "NAME": "基隆市",
+    "JIBIE": "D",
+    "XZQH": "710000",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.7068030274379,
+    "y": 25.115706302803801
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 288,
+    "NAME": "宜兰县",
+    "JIBIE": "D",
+    "XZQH": "710000",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.49148304080984,
+    "y": 24.508282185574558
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 289,
+    "NAME": "南沙群岛",
+    "JIBIE": "D",
+    "XZQH": "460322",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 114.33481609928378,
+    "y": 8.952330132829502
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 290,
+    "NAME": "西沙群岛",
+    "JIBIE": "D",
+    "XZQH": "460321",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 111.65896861500977,
+    "y": 16.497721838692087
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 291,
+    "NAME": "中沙群岛的岛礁及其海域",
+    "JIBIE": "D",
+    "XZQH": "460323",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 117.75561212969626,
+    "y": 15.178220352987069
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 292,
+    "NAME": "澎湖县",
+    "JIBIE": "D",
+    "XZQH": "710000",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 119.59723391411399,
+    "y": 23.586474214113878
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 293,
+    "NAME": "屏东县",
+    "JIBIE": "D",
+    "XZQH": "710000",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.77168950626583,
+    "y": 22.102173724338058
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 294,
+    "NAME": "新北市",
+    "JIBIE": "D",
+    "XZQH": "710000",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 121.91554814433152,
+    "y": 25.099303327886446
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 295,
+    "NAME": "新竹市",
+    "JIBIE": "D",
+    "XZQH": "710000",
+    "LEVEL_MAX": 13,
+    "LEVEL_MIN": 12,
+    "YWJC_LEVEL_MAX": 12,
+    "YWJC_LEVEL_MIN": 10
+   },
+   "geometry": {
+    "x": 120.99752498858754,
+    "y": 24.828899224719635
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 296,
+    "NAME": "南海区",
+    "JIBIE": "A",
+    "XZQH": "03",
+    "LEVEL_MAX": 7,
+    "LEVEL_MIN": 6,
+    "YWJC_LEVEL_MAX": 8,
+    "YWJC_LEVEL_MIN": 6
+   },
+   "geometry": {
+    "x": 111.65999988918372,
+    "y": 23.081375756086459
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 297,
+    "NAME": "东海区",
+    "JIBIE": "A",
+    "XZQH": "02",
+    "LEVEL_MAX": 7,
+    "LEVEL_MIN": 6,
+    "YWJC_LEVEL_MAX": 8,
+    "YWJC_LEVEL_MIN": 6
+   },
+   "geometry": {
+    "x": 120.11667595802919,
+    "y": 31.507734325279046
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 298,
+    "NAME": "北海区",
+    "JIBIE": "A",
+    "XZQH": "01",
+    "LEVEL_MAX": 7,
+    "LEVEL_MIN": 6,
+    "YWJC_LEVEL_MAX": 8,
+    "YWJC_LEVEL_MIN": 6
+   },
+   "geometry": {
+    "x": 118.53414008579648,
+    "y": 40.490919916820872
+   }
+  }
+ ]
+}
